@@ -32,3 +32,51 @@
     margin-right: 17px;
     font-size: 18px;
  }
+ .search button{
+    border: 0;
+    outline: 0;
+    background: #ebfffc;
+    color: #555;
+    padding: px;
+    width: 50px;
+    height: 50px;
+    border-radius:50%;
+    flex: 1;
+    margin-left:20px ;
+    
+    cursor: pointer;
+
+ }
+ .ri-search-2-line{
+
+ }
+ .weather-icon{
+    width: 170px;
+    margin-top: 30px;
+ }
+ .weather h1{
+font-size: 46px;
+font-weight: 400;
+margin-top: -10px;
+ }
+ .details{
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    padding: 0 20px;
+    margin-top: 30px;
+ }
+ .col{
+   margin-top: 20px;
+   margin-bottom: 20px;
+ }
+ .col img{
+    width: 40px;
+    margin-right: 10px;
+ }
+
+ .humidity , .wind{
+    font-size: 28px;
+    margin-top: -6px;
+    margin-bottom: 20px;
+ }
